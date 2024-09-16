@@ -1,5 +1,22 @@
 # Changelog
 
+## [12.39.0](https://github.com/LazyVim/LazyVim/compare/v12.38.2...v12.39.0) (2024-09-16)
+
+
+### Features
+
+* **lazygit:** allow user to override LazyVim config with custom file ([#4367](https://github.com/LazyVim/LazyVim/issues/4367)) ([41a8f3a](https://github.com/LazyVim/LazyVim/commit/41a8f3a5fb2bb84036f33764d77049cafb0adedf))
+* **persistence:** added leader-qS to select a session ([5a0122b](https://github.com/LazyVim/LazyVim/commit/5a0122b61977b5b2c392b64eb615025f49f2aef7))
+
+
+### Bug Fixes
+
+* **extra:** make copilot-chat.lua fallback to the latest model ([#4411](https://github.com/LazyVim/LazyVim/issues/4411)) ([ae17b32](https://github.com/LazyVim/LazyVim/commit/ae17b321c7fc95e8c678865368ebfcac7c2e7483))
+* **grug:** grug_far -&gt; grug.open ([#4404](https://github.com/LazyVim/LazyVim/issues/4404)) ([746ea8f](https://github.com/LazyVim/LazyVim/commit/746ea8f1e6afdad89d0fab4ad04f370cf3998f67))
+* **markdown-preview:** unknown function `mkdp#util#install` ([#4196](https://github.com/LazyVim/LazyVim/issues/4196)) ([b892861](https://github.com/LazyVim/LazyVim/commit/b892861bdee888f83401e745bda1798dc01e2c54))
+* **toggle:** diagnostics enable/disable. See [#4205](https://github.com/LazyVim/LazyVim/issues/4205) ([3dbace9](https://github.com/LazyVim/LazyVim/commit/3dbace941ee935c89c73fd774267043d12f57fe2))
+* **toggle:** make `diagnostics` compatible with nvim-0.9.5 ([#4205](https://github.com/LazyVim/LazyVim/issues/4205)) ([c012f85](https://github.com/LazyVim/LazyVim/commit/c012f859597c4ba3e54dd26372351098a25379cd))
+
 ## [12.38.2](https://github.com/LazyVim/LazyVim/compare/v12.38.1...v12.38.2) (2024-07-25)
 
 
